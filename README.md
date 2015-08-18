@@ -7,8 +7,8 @@ Group Members :
 Task :
 Coding/QA/Verifying : Mohamad Iqbal Ariff
 
--- as1.c
-# using ioctl instead of retrieving informations using "ifconfig eth0"
+# as1.c
+-- using ioctl instead of retrieving informations using "ifconfig eth0"
 
--- as1d.c
-# using ifconfig eth0
+#as1d.c
+-- using ifconfig eth0
