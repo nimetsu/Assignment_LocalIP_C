@@ -1,3 +1,4 @@
+/* IOCNTL eth0 version */
 #include <stdio.h>
 #include <unistd.h>
 #include <string.h> /* for strncpy */
